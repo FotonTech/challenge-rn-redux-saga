@@ -1,5 +1,5 @@
 # Foton Redux Challenge
-You can start the Redux Saga [Challenge](https://github.com/FotonTech/Challenge-RN-ReduxSaga) right now! Just clone the repo and build a Home/List/Detail app with Redux Saga and ReactNative.
+You can start the Redux Saga [Challenge](https://github.com/FotonTech/Challenge-RN-ReduxSaga) right now! Just clone the repo and build a Home/List/Detail app with Redux Saga and ReactNative. You may use any open source libraries you want. For global state you __must__ use only redux, with the saga middleware. Other async models, like `redux-thunk`, are not allowed.
 
 ## API
 Use the [Google Books API](https://developers.google.com/books/docs/v1/using), for example:
