@@ -1,4 +1,4 @@
-# THIS CHALLENGE IS OLD AND WE DON'T USE IT ANYMORE
+# THIS CHALLENGE IS OLD AND WE DON'T USE IT ANYMORE, CHECK THE [NEW ONE](https://github.com/FotonTech/join)
 You can start the Redux Saga [Challenge](https://github.com/FotonTech/Challenge-RN-ReduxSaga) right now! Just clone the repo and build a Home/List/Detail app with Redux Saga and ReactNative.
 
 ## API
